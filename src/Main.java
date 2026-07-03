@@ -169,7 +169,7 @@ public class Main extends JFrame implements ActionListener {
             t.setText("");
 
         }else if(e.getSource()==clear){
-            System.out.println("C");
+            System.out.println("Clear");
             t.setText("");
         }
 
